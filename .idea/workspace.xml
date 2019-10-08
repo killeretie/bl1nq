@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42d0e7de-9531-4134-8409-5d073911308c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bl1nq/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bl1nq/babel.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bl1nq/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bl1nq/src/components/blog.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bl1nq/src/components/contact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bl1nq/src/components/copy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bl1nq/src/components/dsgvo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bl1nq/src/components/gallery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bl1nq/src/components/home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bl1nq/src/components/impressum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bl1nq/src/components/legal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bl1nq/src/components/menu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bl1nq/src/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bl1nq/webpack.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutMe.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slider.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
-    </list>
+    <list default="true" id="42d0e7de-9531-4134-8409-5d073911308c" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -37,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bl1nq/src/components/home.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="488">
-              <caret line="53" column="5" selection-end-line="57" />
+            <state relative-caret-position="782">
+              <caret line="46" column="40" selection-start-line="46" selection-start-column="35" selection-end-line="46" selection-end-column="40" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
               </folding>
@@ -186,6 +165,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/bl1nq/public" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -233,15 +213,16 @@
       <updated>1570283525125</updated>
       <workItem from="1570283530962" duration="10279000" />
       <workItem from="1570475098356" duration="8840000" />
-      <workItem from="1570541059744" duration="11590000" />
+      <workItem from="1570541059744" duration="12050000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30709000" />
+    <option name="totallyTimeSpent" value="31169000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -483,8 +464,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bl1nq/src/components/home.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="488">
-          <caret line="53" column="5" selection-end-line="57" />
+        <state relative-caret-position="782">
+          <caret line="46" column="40" selection-start-line="46" selection-start-column="35" selection-end-line="46" selection-end-column="40" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
           </folding>
