@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42d0e7de-9531-4134-8409-5d073911308c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_redirects_redirects" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -73,6 +74,7 @@
         <option value="$PROJECT_DIR$/bl1nq/src/style.css" />
         <option value="$PROJECT_DIR$/bl1nq/src/components/home.js" />
         <option value="$PROJECT_DIR$/_redirects_redirects" />
+        <option value="$PROJECT_DIR$/public/index.html" />
       </list>
     </option>
   </component>
@@ -82,7 +84,7 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="40" />
     <option name="y" value="220" />
     <option name="width" value="1750" />
@@ -100,6 +102,11 @@
             <path>
               <item name="bl1nq" type="b2602c69:ProjectViewProjectNode" />
               <item name="bl1nq" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bl1nq" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bl1nq" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -156,15 +163,15 @@
       <updated>1570283525125</updated>
       <workItem from="1570283530962" duration="10279000" />
       <workItem from="1570475098356" duration="8840000" />
-      <workItem from="1570541059744" duration="13459000" />
+      <workItem from="1570541059744" duration="14075000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32578000" />
+    <option name="totallyTimeSpent" value="33194000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -418,6 +425,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
         </state>
       </provider>
     </entry>
